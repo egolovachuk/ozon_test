@@ -48,20 +48,4 @@
 
 ## Схема для тех, кому лучше нарисовать
 
-```@mermaid
-sequenceDiagram
-Вы -> Разум : Что меня мотивирует? 
-Разум --> Вы : Стимул
-Вы -> Совесть : Просьба делать глупости
-Совесть --> Вы : Разрешение делать глупости
-Вы -> Помощник : Запрос за звук
-Помощник --> Вы : Звук
-Вы -> Уши : Подражание звуку
-Уши --> Вы : Резонанс
-Вы -> Музыка : Какие бывают жанры и песни
-Музка --> Вы : Список жанров и песен
-Вы -> Аудитория : Пение
-Аудитория --> Вы : Приятные впечатления
-```
-
-![UML](http://www.plantuml.com/plantuml/png/3SJj4OCW303GLTe5H9C8qct2HzGx14_2TVts_NZliyOoKXvFUHsgT_yOivzTf_tKOuJHynDRrLnrYkqo-UAIMkNKr8ZOI03Yl4K9oB0G8Mmqpo5O9s8U_Xf7FA_e0SWH96HO1IBRu1atlx55nuk5nHlDNSTLfllV3m00)
+![UML](http://www.plantuml.com/plantuml/svg/XP8nJiD054JxFSLU81UWW5m52JgWWD3RJW4eY22QI0WfH1IqYx6nPJlhAyo_4RFhBBRbWYQA_ioRF_kJ-StYz7fnUtcXy28hFJlMU8T18Kiq-aZZKn9OZGOvzh9sNomd9LAK4j6KItAYrO2PCS974TvvQyDvtSVlO96IYoMHH-VQa6qbOd2iaN5H3UCrVACcsph59QanErWLIaVKxbrLhit_2mk5jh3-MGyUgoQL2XZtaPAkrCGzBB49fX3zmJOb5Kzb33JuWJdK2vcoL0VZ-44v3PPU-YNkCz_85B921UDyhzIhBk-BqnH6dYJHtHw9234OhJkQswk6_FZ7egcaoQBwezsv1pmFs_TuPav68e6biPIrVsSulfhgestRRaPrpouid_eTTp0SrJw5ifgVNvtnp_aB)
