@@ -48,6 +48,6 @@
 
 ## Схема для тех, кому лучше картинками
 
-![UML](http://www.plantuml.com/plantuml/png/RP8nJiD054JxFSMc9nUW8BaA4dH00Q6FxIAW889ea11IY12YDIOcnaxC5URVY1aji2QYykh_cJV_xtfuDje_7PqV7pdSsjJtzpmUaMDb6TP-r-F5KhGUQvJOs4o7bfKA1IeRKrHQEl2ku-aJ8PJC2qcnPhs9-0LQ5FGbbjgLLCz4JYppDaPk2Mf-ItoocCWk5K-pdjjoTeD2F7rseK4PMdeiUMo8b1XlQ2oBr3ZEd50jTIaRQj7kK5Xc4sMZtF5ouPq98dp8ZxpdjetTUG81TKnvuc2LEd8jjQc8FvEkWjmo5uHRkvKKjDHIRqbaFj2piYbgvDBTiry7tYkh1JU_jjI771lJX8gxwFwKEt1TmDzdewgYgaNzQzVLHu0kEGvoGyuIkgsMmifcOT7lXt3_zBjfyr1ZTsDJJLz06HEz71fHr7R3mvC3_gPV)
+![fig_2](uml.png)
 
 Вот и всё! Если вы всё сделали по этой инструкции и поёте каждый день при каждом удобном случае, то уже через два месяца вы сможете получить первые приятные впечатления. Можно смело идти с друзьями в караоке!
